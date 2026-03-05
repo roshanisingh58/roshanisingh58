@@ -10,9 +10,9 @@
 - I’m currently learning **AI, React.js, Flask and Advanced Web Development**
 - Participated in multiple **Hackathons as a Team Leader**
 
-- 🎓 B.Tech Information Technology Student
+-  B.Tech Information Technology Student
 
-- ✅ One of my recent working projects is **Second Life Food**  
+-  One of my recent working projects is **Second Life Food**  
   A platform where we utilize **expired/surplus packaged food** and convert it into **animal food and fertilizer** (waste-to-value approach).  
   🔗 Live Demo: https://second-life-food-six.vercel.app/home
 
