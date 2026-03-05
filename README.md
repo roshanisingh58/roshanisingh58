@@ -9,7 +9,7 @@
 - **Gene Guard** is an AI-powered healthcare project where I collect **unstructured hospital data** and train an **AI model to analyze genetic disease patterns and medical insights.**
 - I’m currently learning **AI, React.js, Flask and Advanced Web Development**
 - Participated in multiple **Hackathons as a Team Leader**
-- Founder of **Avera Startup**
+
 - 🎓 B.Tech Information Technology Student
 
 - ✅ One of my recent working projects is **Second Life Food**  
