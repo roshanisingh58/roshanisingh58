@@ -27,7 +27,7 @@
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=androidstudio,arduino,aws,c,cpp,css,django,docker,express,firebase,flask,flutter,git,github,go,html,java,js,jenkins,linux,mongodb,mysql,nextjs,nodejs,php,postgres,python,react,redux,selenium,tailwind" />
+<img src="https://skillicons.dev/icons?i=androidstudio,aws,c,cpp,css,docker,express,firebase,flask,git,github,go,html,java,js,linux,mongodb,mysql,nextjs,nodejs,postgres,python,react,tailwind" />
 
 </p>
 
